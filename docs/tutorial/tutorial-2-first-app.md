@@ -84,7 +84,7 @@ the exact dependency versions to install.
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jane Doe",
+  "author": "Suriya ",
   "license": "MIT",
   "devDependencies": {
     "electron": "23.1.3"
